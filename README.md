@@ -23,7 +23,7 @@ npx tsc --init
 
 У `tsconfig.json`: `target: ES2022`, `module: NodeNext`, `moduleResolution: NodeNext`, `strict`, `noImplicitAny`, `strictNullChecks`, `noUncheckedIndexedAccess`. У `package.json` додано `"start": "tsx src/index.ts"`.
 
-![npm init](screenshots/Screenshot_2026-10-15_160505.png)
+![npm init](screenshots/Screenshot 2026-10-15 160505.png)
 ![Встановлення залежностей і tsc --init](screenshots/Screenshot_2026-10-15_160511.png)
 
 ## Рівень 1
